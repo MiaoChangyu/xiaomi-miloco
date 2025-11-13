@@ -93,7 +93,7 @@ bash script/install.sh
 - GitHub 的[讨论区](https://github.com/XiaoMi/xiaomi-miloco/discussions/)
 - 项目讨论群（微信）：
 
-  <img src="assets/images/miloco_wechat.jpg" width="60%" />
+  <img src="assets/images/miloco_wechat.jpg" width="30%" />
 
 
 ### 加入我们
@@ -102,5 +102,7 @@ bash script/install.sh
 
 ## 致谢
 
-感谢所有为 Xiaomi Miloco 项目做出贡献的开发者和社区成员。特别感谢：
+感谢初代为 Miloco 奋斗的小伙伴们：zhaoy、yangyongjie、xx、Changyu、yyk、junhui、郭兴宝、47、afei。你们的热情与才华，是 Miloco 持续创新、不断前进的根本动力。
+
+特别感谢：
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) 开源项目提供推理后端能力

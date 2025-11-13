@@ -93,7 +93,7 @@ For issue reporting, please participate through the following methods:
 - GitHub [Discussions](https://github.com/XiaoMi/xiaomi-miloco/discussions/)
 - Project Discussion Group (WeChat):
 
-  <img src="assets/images/miloco_wechat.jpg" width="60%" />
+  <img src="assets/images/miloco_wechat.jpg" width="30%" />
 
 
 ### Join Us
@@ -102,5 +102,9 @@ The **Xiaomi Miloco** team is hiring. Send your resume to `xiaomi-miloco@xiaomi.
 
 ## Acknowledgments
 
-Thanks to all developers and community members who have contributed to the Xiaomi Miloco project. Special thanks to:
+Thank you to the original team members who worked hard for Miloco：zhaoy、yangyongjie、xx、Changyu、yyk、junhui、郭兴宝、47、afei。
+
+Your passion and talent are the fundamental driving force behind Miloco's continuous innovation and progress.
+
+Special thanks to:
 - The [llama.cpp](https://github.com/ggml-org/llama.cpp) open source project for providing inference backend capabilities
