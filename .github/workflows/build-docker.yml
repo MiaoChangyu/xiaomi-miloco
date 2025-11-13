@@ -42,7 +42,7 @@ jobs:
           file: docker/ai_engine.cuda.Dockerfile
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/miloco-ai_engine:${{ steps.vars.outputs.VERSION }}
+            ghcr.io/${{ github.repository_owner | lower }}/miloco-ai_engine:${{ steps.vars.outputs.VERSION }}
 
       - name: Build and push backend
         uses: docker/build-push-action@v4
@@ -51,4 +51,4 @@ jobs:
           file: docker/backend.Dockerfile
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/miloco-backend:${{ steps.vars.outputs.VERSION }}
+            ghcr.io/${{ github.repository_owner | lower }}/miloco-backend:${{ steps.vars.outputs.VERSION }}

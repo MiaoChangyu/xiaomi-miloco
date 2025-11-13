@@ -50,7 +50,7 @@ NVIDIA Container Toolkit: 用于Docker GPU支持
 使用一键安装脚本完成环境配置，服务启动。
 
 ```bash
-bash -c "$(wget -qO- --no-check-certificate https://cdn.cnbj1.fds.api.mi-img.com/xiaomi-miloco/install.sh)"
+bash -c "$(wget -qO- https://xiaomi-miloco.cnbj1.mi-fds.com/xiaomi-miloco/install.sh)"
 ```
 
 或者可拉取仓库后一键安装

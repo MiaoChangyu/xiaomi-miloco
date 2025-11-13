@@ -50,7 +50,7 @@ NVIDIA Container Toolkit: For Docker GPU support
 Use the one-click installation script to complete environment configuration and service startup.
 
 ```bash
-bash -c "$(wget -qO- --no-check-certificate https://cdn.cnbj1.fds.api.mi-img.com/xiaomi-miloco/install.sh)"
+bash -c "$(wget -qO- https://xiaomi-miloco.cnbj1.mi-fds.com/xiaomi-miloco/install.sh)"
 ```
 
 Or clone the repository and install with one click:
