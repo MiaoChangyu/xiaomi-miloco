@@ -58,7 +58,7 @@ class JWTConfig:
 
         # Log initialization (logging system should be ready at this point)
         logger.info("JWT configuration initialized - algorithm: %s, expire_minutes: %s",
-                   self._secret_key, self._algorithm, self._access_token_expire_minutes)
+                   self._algorithm, self._access_token_expire_minutes)
 
     @property
     def secret_key(self) -> str:
